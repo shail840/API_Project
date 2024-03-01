@@ -47,7 +47,9 @@ git clone https://github.com/your_username/RestaurantSite.git
 cd LittleLemon
 
 **Install dependencies:**
-pip install -r requirements.txt
+pip install pipenv->
+pipenv install->
+pipenv shell
 
 **Run the development server:**
 python manage.py runserver
